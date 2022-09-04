@@ -130,7 +130,6 @@ const swiperTestimonial = new Swiper('.testimonial_container', {
     },
 });
 
-
 //SCROLL SECTION ACTIVE LINK
 const sections = document.querySelectorAll('section[id]')
 
